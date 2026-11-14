@@ -1,0 +1,5 @@
+{
+  "Endpoint": "http://127.0.0.1:18081/v1/",
+  "Model": "your-local-model-name",
+  "Launcher": ""
+}
